@@ -1,0 +1,15 @@
+{
+  "name": "@why-monorepo-demo/simple-module-a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/getElementsByName/why-monorepo-demo.git"
+	},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,9 @@
+{
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/getElementsByName/why-monorepo-demo.git"
+	},
+	"devDependencies": {
+		"lerna": "^2.11.0"
+	}
+}
