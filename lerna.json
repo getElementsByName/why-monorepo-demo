@@ -3,8 +3,8 @@
   "packages": [
     "packages/*"
   ],
-  "hoisting": [
-    "@egjs/component"
+  "hoist": [
+    "why-simple-module"
   ],
   "publishConfig": {
     "access": "public"

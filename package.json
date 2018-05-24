@@ -1,4 +1,8 @@
 {
+	"scripts":{
+		"install": "lerna bootstrap",
+		"clean": "lerna clean"
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/getElementsByName/why-monorepo-demo.git"
