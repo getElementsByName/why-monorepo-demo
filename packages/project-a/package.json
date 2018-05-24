@@ -1,6 +1,6 @@
 {
   "name": "@why-monorepo-demo/project-a",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "private": true,
   "main": "index.js",
@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@why-monorepo-demo/simple-module-a": "^1.0.0",
-    "@why-monorepo-demo/simple-module-b": "^1.0.0"
+    "@why-monorepo-demo/simple-module-a": "^2.0.0",
+    "@why-monorepo-demo/simple-module-b": "^2.0.0"
   }
 }
