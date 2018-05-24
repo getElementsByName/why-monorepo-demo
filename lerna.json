@@ -1,0 +1,11 @@
+{
+  "lerna": "2.11.0",
+  "packages": [
+    "packages/*"
+  ],
+  "hoisting": ["@egjs/component"],
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0"
+}
