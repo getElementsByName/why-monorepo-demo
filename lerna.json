@@ -3,7 +3,9 @@
   "packages": [
     "packages/*"
   ],
-  "hoisting": ["@egjs/component"],
+  "hoisting": [
+    "@egjs/component"
+  ],
   "publishConfig": {
     "access": "public"
   },

@@ -1,7 +1,8 @@
 {
   "name": "@why-monorepo-demo/project-a",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "",
+  "private": true,
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
