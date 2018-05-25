@@ -1,7 +1,8 @@
 {
 	"scripts":{
 		"install": "lerna bootstrap",
-		"clean": "lerna clean"
+		"clean": "lerna clean",
+		"add": "lerna add @why-monorepo-demo/${package} --scope=@why-monorepo-demo/{$package}"
 	},
 	"repository": {
 		"type": "git",

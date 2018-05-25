@@ -4,7 +4,7 @@
     "packages/*"
   ],
   "hoist": [
-    "why-simple-module"
+    "why-simple-module", "@why-monorepo-demo/simple-module-a"
   ],
   "publishConfig": {
     "access": "public"
