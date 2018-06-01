@@ -1,8 +1,12 @@
 {
-	"scripts":{
-		"install": "lerna bootstrap",
-		"clean": "lerna clean"
+	"scripts": {
+		"clean": "lerna clean && rm -rf node_modules",
+		"add": "lerna add @why-monorepo-demo/${package} --scope=@why-monorepo-demo/{$package}"
 	},
+	"private": true,
+	"workspaces": [
+		"packages/*"
+	],
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/getElementsByName/why-monorepo-demo.git"

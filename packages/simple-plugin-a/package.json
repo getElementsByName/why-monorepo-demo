@@ -1,0 +1,18 @@
+{
+  "name": "@why-monorepo-demo/simple-plugin-a",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/getElementsByName/why-monorepo-demo.git"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "@why-monorepo-demo/simple-module-a": "^2.0.0"
+  }
+}
