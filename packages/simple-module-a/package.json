@@ -1,6 +1,6 @@
 {
   "name": "@why-monorepo-demo/simple-module-a",
-  "version": "2.0.1",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "repository": {
