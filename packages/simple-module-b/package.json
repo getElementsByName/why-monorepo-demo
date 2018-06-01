@@ -1,6 +1,6 @@
 {
   "name": "@why-monorepo-demo/simple-module-b",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "",
   "main": "index.js",
   "repository": {
@@ -14,5 +14,6 @@
   "license": "ISC",
   "dependencies": {
     "why-simple-module": "^2.0.0"
-  }
+  },
+  "gitHead": "b095ad42db638c073ae92bb26876de316589047c"
 }
