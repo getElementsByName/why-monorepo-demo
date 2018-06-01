@@ -1,11 +1,12 @@
 {
 	"scripts": {
 		"clean": "lerna clean && rm -rf node_modules",
+		"publish": "lerna publish --npm-client npm",
 		"add": "lerna add @why-monorepo-demo/${package} --scope=@why-monorepo-demo/{$package}"
 	},
 	"private": true,
 	"workspaces": [
-		"packages/*"
+		"**/packages/*"
 	],
 	"repository": {
 		"type": "git",
