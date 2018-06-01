@@ -1,5 +1,5 @@
 {
-  "name": "@why-monorepo-demo/project-a",
+  "name": "@why-monorepo-demo/host-project",
   "version": "2.0.1",
   "description": "",
   "private": true,
