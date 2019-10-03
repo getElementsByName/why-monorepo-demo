@@ -1,7 +1,7 @@
 {
 	"scripts": {
 		"install": "lerna bootstrap",
-		"clean": "lerna clean",
+		"clean": "lerna clean && rm -rf node_modules",
 		"publish": "lerna publish --npm-client npm",
 		"add": "lerna add @why-monorepo-demo/${added-package} --scope=@why-monorepo-demo/{$target-package}"
 	},
