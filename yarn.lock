@@ -2867,9 +2867,9 @@ lodash.uniq@^4.5.0:
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
 lodash@^4.17.12, lodash@^4.17.14, lodash@^4.2.1:
-  version "4.17.15"
-  resolved "https://registry.navercorp.com:443/api/npm/npm-naver/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha1-tEf2ZwoEVbv+7dETku/zMOoJdUg=
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
+  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
 
 loud-rejection@^1.0.0:
   version "1.6.0"
@@ -4707,16 +4707,6 @@ which@1, which@^1.2.9, which@^1.3.1:
   integrity sha1-pFBD1U9YBTFtqNYvn1CRjT2nCwo=
   dependencies:
     isexe "^2.0.0"
-
-why-simple-module@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.navercorp.com:443/api/npm/npm-naver/why-simple-module/-/why-simple-module-1.0.0.tgz#84c6ac2c1ea92aecbbbd5e469f1edacfad8b1338"
-  integrity sha1-hMasLB6pKuy7vV5Gnx7az62LEzg=
-
-why-simple-module@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.navercorp.com:443/api/npm/npm-naver/why-simple-module/-/why-simple-module-2.0.0.tgz#95fbf427f7ee98d316ee7d98f771c2618d9e608b"
-  integrity sha1-lfv0J/fumNMW7n2Y93HCYY2eYIs=
 
 wide-align@^1.1.0:
   version "1.1.3"
